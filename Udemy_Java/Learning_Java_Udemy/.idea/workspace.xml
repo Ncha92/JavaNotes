@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54420e64-c656-4333-971b-5b6c7ce50010" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\TCha9\Desktop\Learning_Java_Udemy\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gpP80KeAuS8BTy8Z4Trucy7uXB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.SelectionSort">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.BinarySearch" />
+      <module name="Learning_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.BubbleSort" />
+      <module name="Learning_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.InsertionSort" />
+      <module name="Learning_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LinearSearch" />
+      <module name="Learning_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.SelectionSort" />
+      <module name="Learning_Java_Udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54420e64-c656-4333-971b-5b6c7ce50010" name="Default Changelist" comment="" />
+      <created>1598808397830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598808397830</updated>
+      <workItem from="1598808399093" duration="85000" />
+      <workItem from="1598808704744" duration="953000" />
+      <workItem from="1598810214824" duration="8136000" />
+      <workItem from="1598996916806" duration="8301000" />
+      <workItem from="1599090079726" duration="12064000" />
+      <workItem from="1599525705382" duration="16000" />
+      <workItem from="1599835068403" duration="28649000" />
+      <workItem from="1600104968808" duration="25618000" />
+      <workItem from="1600383014526" duration="3337000" />
+      <workItem from="1606752318107" duration="707000" />
+      <workItem from="1606753113862" duration="491000" />
+      <workItem from="1606758562784" duration="1309000" />
+      <workItem from="1606763620619" duration="369000" />
+      <workItem from="1606766886961" duration="2879000" />
+      <workItem from="1606851582856" duration="2649000" />
+      <workItem from="1608228250785" duration="38000" />
+      <workItem from="1608228466150" duration="1221000" />
+      <workItem from="1608249011615" duration="5930000" />
+      <workItem from="1608255962476" duration="4000" />
+      <workItem from="1611282744188" duration="260000" />
+      <workItem from="1611527117331" duration="18000" />
+      <workItem from="1611527843561" duration="2584000" />
+      <workItem from="1611599056068" duration="32000" />
+      <workItem from="1611621316478" duration="1137000" />
+      <workItem from="1611784039631" duration="605000" />
+      <workItem from="1613154025833" duration="1326000" />
+      <workItem from="1613174217793" duration="8783000" />
+      <workItem from="1613232210165" duration="1111000" />
+      <workItem from="1613625889886" duration="5000" />
+      <workItem from="1614013098320" duration="3032000" />
+      <workItem from="1614104531927" duration="12872000" />
+      <workItem from="1614177490610" duration="17619000" />
+      <workItem from="1614269782533" duration="1571000" />
+      <workItem from="1614284357435" duration="3052000" />
+      <workItem from="1614358082073" duration="1932000" />
+      <workItem from="1614793496641" duration="599000" />
+      <workItem from="1614888588954" duration="4732000" />
+      <workItem from="1615147817201" duration="4750000" />
+      <workItem from="1615229125453" duration="878000" />
+      <workItem from="1615579861654" duration="73000" />
+      <workItem from="1615749704126" duration="41000" />
+      <workItem from="1615752643772" duration="116000" />
+      <workItem from="1615756678514" duration="126000" />
+      <workItem from="1615757779082" duration="10000" />
+      <workItem from="1615758146366" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1608228476840">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608228476840" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1614182898972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614182898972" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1614189603465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614189603465" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606752361547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1606752361547" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1611534256497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608228502695" />
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1611534256497" />
+    <state width="583" height="696" key="GridCell.Tab.0.bottom" timestamp="1615171440413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="476" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608255870709" />
+    <state width="584" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614359040167" />
+    <state width="583" height="696" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615171440413" />
+    <state width="29" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606777914812" />
+    <state width="583" height="696" key="GridCell.Tab.0.center" timestamp="1615171440412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="476" height="696" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608255870709" />
+    <state width="584" height="696" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614359040167" />
+    <state width="583" height="696" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615171440412" />
+    <state width="29" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606777914811" />
+    <state width="583" height="696" key="GridCell.Tab.0.left" timestamp="1615171440412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="476" height="696" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608255870709" />
+    <state width="584" height="696" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614359040167" />
+    <state width="583" height="696" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615171440412" />
+    <state width="29" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606777914811" />
+    <state width="583" height="696" key="GridCell.Tab.0.right" timestamp="1615171440413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="476" height="696" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608255870709" />
+    <state width="584" height="696" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614359040167" />
+    <state width="583" height="696" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1615171440413" />
+    <state width="29" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606777914811" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1611533984447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1608249063633" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1611533984447" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611534550827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1611534550827" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1611283003256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1611283003256" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1614183267828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1606858664179" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1536.824@0.0.1536.824" timestamp="1614183267828" />
+  </component>
+</project>
