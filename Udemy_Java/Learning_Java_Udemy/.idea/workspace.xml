@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -181,6 +182,9 @@
       <workItem from="1615756678514" duration="126000" />
       <workItem from="1615757779082" duration="10000" />
       <workItem from="1615758146366" duration="15000" />
+      <workItem from="1615760184733" duration="84000" />
+      <workItem from="1615760533871" duration="17000" />
+      <workItem from="1615761230129" duration="33000" />
     </task>
     <servers />
   </component>
